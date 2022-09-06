@@ -2,12 +2,10 @@
   "id": 1,
   "pName": "ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas",
   "pDescription": "Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
-  "pPrice": 8,
-  "pImage": "https://robohash.org/providentsuntmaiores.png?size=50x50&set=set1"
+  "pPrice": 8
 }, {
   "id": 2,
   "pName": "luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui",
   "pDescription": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl.",
-  "pPrice": 41,
-  "pImage": "https://robohash.org/autvoluptateut.png?size=50x50&set=set1"
+  "pPrice": 41
 }]
